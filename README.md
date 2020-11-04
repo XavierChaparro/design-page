@@ -7,8 +7,16 @@
 	<nav class="navigation">
 		<ul class="menu"> 
 			<li*><a href="#">Inicio</a></li>
-			<li*><a href="#">Conceptos</a></li>
-			<li*><a href="#">Recursos</a></li>
+			<li*><a href="#">Conceptos</a>
+				<ul class="submenu">
+					<li*><a href="#">Primer Concepto</a></li>
+					<li*><a href="#">Segundo Concepto</a></li>
+				</li>
+			<li*><a href="#">Recursos</a>
+				<ul class="submenu">
+					<li*><a href="#">Primer Concepto</a></li>
+					<li*><a href="#">Segundo Concepto</a></li>
+				</li>
 			<li*><a href="#">Autoevaluacion</a></li>
 		</ul>
 	</nav>
