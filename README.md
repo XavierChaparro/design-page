@@ -64,7 +64,6 @@
 	Se referencia los elementos con este atributo y que su valor contiene la cadena de texto indicada en &quot;valor&quot;.</li>
 	<li>Pseudo-Elementos y Pseudo-Clases:&nbsp;
 	<h3>Segundo Obejtivo Especifico - Pseudo-elementos y Pseudo-clases</h3>
-
 	<p>El primero de estos que revisaremos va a ser el cambio que tuvieron los 4 pseudo-elementos que existen en el cambio de versi&oacute;n de CSS2.1 a CSS3.<br />
 	<br />
 	:first-line. ---&gt; Selecciona la primera l&iacute;nea<br />
@@ -75,5 +74,6 @@
 	<br />
 	:after ---&gt; Posiciona al final del contenido de un elemento&nbsp; &nbsp;</p>
 	</li>
-	<li>Efectos Internos y Externos:&nbsp;Los efectos que se pueden manejar dentro del contenido de la p&aacute;gina no solo a nivel gr&aacute;fico sino que tambien a nivel de texto, cobran gran relevancia en donde lo que se quiere es tener un c&oacute;digo mas depurado y limpio.&nbsp; &nbsp;</li>
+	<li>Efectos Internos y Externos:&nbsp;Los efectos que se pueden manejar dentro del contenido de la p&aacute;gina no solo a nivel gr&aacute;fico 
+	sino que tambien a nivel de texto, cobran gran relevancia en donde lo que se quiere es tener un c&oacute;digo mas depurado y limpio.&nbsp; &nbsp;</li>
 </ul>
