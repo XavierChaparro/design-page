@@ -14,8 +14,8 @@
 				</li>
 			<li*><a href="#">Recursos</a>
 				<ul class="submenu">
-					<li*><a href="#">Primer Concepto</a></li>
-					<li*><a href="#">Segundo Concepto</a></li>
+					<li*><a href="#">Primer Recurso</a></li>
+					<li*><a href="#">Segundo Recurso</a></li>
 				</li>
 			<li*><a href="#">Autoevaluacion</a></li>
 		</ul>
